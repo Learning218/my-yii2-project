@@ -36,4 +36,9 @@ class HelloController extends Controller
     {
         
     }
+
+    public function actionNEW()
+    {
+        
+    }
 }
